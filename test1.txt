@@ -1,0 +1,5 @@
+Spanish:English:Femme-Masc
+Gato:Cat:M
+Vaca:Cow:F
+Vibora:Snake:F
+Casa:House:F

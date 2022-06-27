@@ -1,0 +1,6 @@
+Register	Data1	Data2	Data3	Data4
+45	259	x/6585	horoscopo	silueta
+125	2689	y/6545A	chicken	red
+137 4895 z/6565658	bird	blue
+158	25090 hy/125	elephant	green
+16	265859	zz/2	cow	blue
